@@ -47,10 +47,7 @@ public class ListaPersonas extends JFrame implements ActionListener, Runnable
 	                                  "Jacobo",      "Velez",      "Messi",    "Balcazar",  "Ochoa",     "Cabrera",  "Bautista",
 	                                  "Rodarte",     "Duarte",     "Vargas",   "Aleman",    "De Casas",  "Davish",   "Dorado",
 	                                  "Magallanes",  "Castañeda",  "Guzman"};
-	/*public static String[] eventualidades={"HORA DE COMER","RECESO","FALTA DE MERCANCIA","FALTA DE ENERGIA ELECTRICA",
-	                                        "ACCIDENTE", "CAIDA DEL SISTEMA","CORTE DE CAJA","PROBLEMAS CON LA IMPRESORA",
-	                                        "LLEGO UNA VIEJITA CON PURAS MONEDAS DE A CENTAVO","SISMO"};                                                                          
-	*/
+
 	public static String eventualidad= "Lllego una viejita con monedas de 1 centavo";
 	public static Lista primero = null;
 	public static Lista ultimo = null;
