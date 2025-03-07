@@ -1,2 +1,2 @@
-Proyecto de Simulación
-======================
+Simulation Project (Queues)
+===========================
